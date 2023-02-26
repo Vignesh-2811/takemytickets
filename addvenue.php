@@ -30,19 +30,19 @@
             <form action="functions/code.php" method="POST">
             <div>
             <label for="" class = "">Venue</label>
-            <input type="text" placeholder = "Venue" class = "form-control" name = "venue">
+            <input type="text" placeholder = "Venue" class = "form-control" name = "venue" required>
             </div>
             <div>
             <label for="" class = "">Address</label>
-            <textarea type="text" placeholder = "Address" class = "form-control" name = "address"></textarea>
+            <textarea type="text" placeholder = "Address" class = "form-control" name = "address" required></textarea>
             </div>
             <div>
             <label for="" class = "">Google Map URL</label>
-            <input type="text" placeholder = "Google Map URL" class = "form-control" name = "gmapurl">
+            <input type="text" placeholder = "Google Map URL" class = "form-control" name = "gmapurl" required>
             </div>
             <div>
             <label for="" class = "">City</label>
-            <input type="text" placeholder = "City" class = "form-control" name = "city">
+            <input type="text" placeholder = "City" class = "form-control" name = "city" required>
             </div>
             <br>
             <div style="text-align:center;">

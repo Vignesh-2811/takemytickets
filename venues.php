@@ -14,7 +14,7 @@ include "includes/aside.php";
             <div class="card">
                 <div class="card-header">
                     <h4>
-                        Events
+                        Venues
                     </h4>
                    
                 </div>

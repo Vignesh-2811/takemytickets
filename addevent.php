@@ -77,43 +77,43 @@ include "includes/aside.php";
                                 <div class="row">
                                 <div class="col-md-4">
                                 <label for="">Category</label>
-                                <input type="text" class = "form-control" name = "category" required placeholder = "Enter category">
+                                <input type="text" class = "form-control" name = "category" required placeholder = "Enter category" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Price</label>
-                                <input type="number" class = "form-control" name = "price" required placeholder = "Enter price">
+                                <input type="number" class = "form-control" name = "price" required placeholder = "Enter price" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Details</label>
-                                <textarea rows = "3" class = "form-control"  name = "details" required placeholder = "Enter details"></textarea>
+                                <textarea rows = "3" class = "form-control"  name = "details" required placeholder = "Enter details" required></textarea>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-4">
                                 <label for="">Category</label>
-                                <input type="text" class = "form-control" name = "category2" required placeholder = "Enter category">
+                                <input type="text" class = "form-control" name = "category2" required placeholder = "Enter category" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Price</label>
-                                <input type="number" class = "form-control" name = "price2" required placeholder = "Enter price">
+                                <input type="number" class = "form-control" name = "price2" required placeholder = "Enter price" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Details</label>
-                                <textarea rows = "3" class = "form-control"  name = "details2" required placeholder = "Enter details"></textarea>
+                                <textarea rows = "3" class = "form-control"  name = "details2" required placeholder = "Enter details" required></textarea>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-4">
                                 <label for="">Category</label>
-                                <input type="text" class = "form-control" name = "category3" required placeholder = "Enter category">
+                                <input type="text" class = "form-control" name = "category3" required placeholder = "Enter category" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Price</label>
-                                <input type="number" class = "form-control" name = "price3" required placeholder = "Enter price">
+                                <input type="number" class = "form-control" name = "price3" required placeholder = "Enter price" required>
                                 </div>
                                 <div class="col-md-4">
                                 <label for="">Details</label>
-                                <textarea rows = "3" class = "form-control"  name = "details3" required placeholder = "Enter details"></textarea>
+                                <textarea rows = "3" class = "form-control"  name = "details3" required placeholder = "Enter details" required></textarea>
                                 </div>
                             </div>
 
