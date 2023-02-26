@@ -2,7 +2,7 @@
 
 ### TECH STACK USED:
 
-| **RONT-END** | **DATABASE** | **BACK-END** |
+| **FRONT-END** | **DATABASE** | **BACK-END** |
 |-----------|----------|----------|
 | HTML | mysql | PHP |
 | CSS | | |
