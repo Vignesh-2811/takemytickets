@@ -20,4 +20,4 @@ Ascertain that the Apache web server and the MySQL database are running on the X
 
 Upload the database in the server
 
-Navigate to htdocs folder of XAMPP and clone this repoa and goto [LocalHost](http://localhost/TMT_Admin) 
+Navigate to htdocs folder of XAMPP and clone this repo and goto [LocalHost](http://localhost/TMT_Admin) 
